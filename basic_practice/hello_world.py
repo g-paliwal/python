@@ -1,3 +1,3 @@
 
-print "Hello India"
-print "python first program"
+print("Hello India")
+print("python first program")
